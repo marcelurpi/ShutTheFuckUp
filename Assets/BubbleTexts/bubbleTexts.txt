@@ -1,0 +1,40 @@
+{
+    "BubbleTexts": [
+        {
+            "text": "The leader sucks",
+            "isFollower": false
+        },
+        {
+            "text": "The leader is great",
+            "isFollower": true
+        },
+        {
+            "text": "I really like the Leader",
+            "isFollower": true
+        },
+        {
+            "text": "I really hate the Leader",
+            "isFollower": false
+        }
+    ],
+    "FollowerbubbleTexts": [
+        {
+            "text": "The leader is great",
+            "isFollower": true
+        },
+        {
+            "text": "I really like the Leader",
+            "isFollower": true
+        }
+    ],
+    "DissidentbubbleTexts": [
+        {
+            "text": "The leader sucks",
+            "isFollower": false
+        },
+        {
+            "text": "I really hate the Leader",
+            "isFollower": false
+        }
+    ]
+}
